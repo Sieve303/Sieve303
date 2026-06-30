@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Mobile App Development / Programming II** at Sol Plaatje University
+- 🎓 Studying **Mobile App Development / Programming** at Sol Plaatje University
 - 🔭 Currently working on **SCOSS — Smart Campus Orientation & Support System**
 - 🌱 Learning **Java Swing, MySQL, Android Development**
 - 💡 Passionate about building solutions that solve real problems
